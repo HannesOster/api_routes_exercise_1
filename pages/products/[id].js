@@ -25,7 +25,6 @@ export default function RenderProduct() {
         {data.price}
         {data.currency}
       </p>
-
       <p>{data.category}</p>
     </>
   );
